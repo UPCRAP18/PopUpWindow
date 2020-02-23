@@ -1,7 +1,7 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "pop-up-window-client-side-solution",
+    "name": "Pop Up Window",
     "id": "c57ec534-592c-4fae-9916-29331903a1f6",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
